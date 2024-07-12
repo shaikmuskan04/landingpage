@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Destination Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="image-side">
+            <img src="https://imageio.forbes.com/specials-images/dam/imageserve/1171238184/960x0.jpg?height=473&width=711&fit=bounds" alt="Travel Destination">
+        </div>
+        <div class="details-side">
+            <div class="buttons-container">
+                <a href="#home" class="btn">Home</a>
+                <a href="#about" class="btn">About</a>
+                <a href="#services" class="btn">Services</a>
+            </div>
+            <section id="home" class="section">
+                <h1>Welcome to Global Travels</h1>
+                <p>Explore the beauty and wonders of the World. From pristine beaches to cultural landmarks, Global Travels offers a memorable experience for every traveler.</p>
+            </section>
+            <section id="about" class="section">
+                <h2>About Global Travels</h2>
+                <p>Global Travels is renowned for its rich history, vibrant culture, and warm hospitality. Whether you're seeking adventure or relaxation, Global Travels promises an unforgettable journey.designed to inspire and assist travelers in exploring the world. It offers a wealth of information on destinations, attractions, accommodations, and activities through vivid imagery and comprehensive guides.</p>
+            </section>
+            <section id="services" class="section">
+                <h2>Our Services</h2>
+                <ul>
+                    <li>Guided Tours</li>
+                    <p>These tours offer convenience and depth, often including transportation, accommodations, and itinerary planning.</p>
+                    <li>Adventure Activities</li>
+                    <p>Adventure activities encompass a range of exhilarating outdoor pursuits that cater to thrill-seekers and outdoor enthusiasts. </p>
+                    <li>Cultural Experiences</li>
+                    <p>Cultural experiences immerse participants in the traditions, customs, arts, and heritage of a specific community or region. </p>
+                    <li>Accommodation Options</li>
+                    <p>These range from traditional hotels and resorts to more unique choices such as vacation rentals, bed and breakfasts (B&Bs), hostels, eco-lodges, and boutique hotels. Each option offers different amenities, styles, and price ranges to cater to various preferences and budgets. </p>
+                </ul>
+            </section>
+        </div>
+    </div>
+</body>
+</html>
